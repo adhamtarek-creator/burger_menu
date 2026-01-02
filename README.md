@@ -9,7 +9,7 @@ Built to practise README writing, GitHub and basic CI/CD.
 ![GitHub last commit]([https://img.shields.io/github/last-commit/adhamtarek-creator
 /burger_menu](https://img.shields.io/github/last-commit/adhamtarek-creator/burger_menu)
 
-![Screenshot](assets/images/Screenshot 2026-01-02 060713.png)
+![Screenshot](assets/images/UI)
 
 ## 📖 Table of Contents
 - [Features](#features)
