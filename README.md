@@ -11,7 +11,7 @@ Built to practise README writing, GitHub and basic CI/CD.
 ![License](https://img.shields.io/github/license/adhamtarek-creator
 /YOUR_REPO)
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](assets/images/Screenshot 2026-01-02 060713.png)
 
 ## 📖 Table of Contents
 - [Features](#features)
