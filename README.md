@@ -1,16 +1,31 @@
-# burger_menu
+<details>
+<summary>👀 Click to preview final README</summary>
 
-A new Flutter project.
+# Burger-Mix-Combo Web App
 
-## Getting Started
+> A tiny e-commerce demo that sells a fixed burger combo with 30 % off.  
+Built to practise README writing, GitHub and basic CI/CD.
 
-This project is a starting point for a Flutter application.
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USER/burger_menu
+/)
+![License](https://img.shields.io/github/license/adhamtarek-creator
+/YOUR_REPO)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot](docs/screenshot.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📖 Table of Contents
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Quick Start](#quick-start)
+- [Folder Structure](#folder-structure)
+- [Available Scripts](#available-scripts)
+- [Environment Variables](#environment-variables)
+- [Contributing](#contributing)
+- [License](#license)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+- Add the “Burger Mix Combo” to cart in one click  
+- Applies 30 % discount automatically  
+- Shows live total in EGP  
+- Persists cart in `localStorage`  
+- Mobile-first responsive layout  
