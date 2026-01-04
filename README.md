@@ -26,3 +26,20 @@ Built to practise README writing, GitHub and basic CI/CD.
 - Shows live total in EGP  
 - Persists cart in `localStorage`  
 - Mobile-first responsive layout  
+
+# 🧰 Tech Stack
+- **Frontend**: Flutter 3 (Dart)   
+- **IDE**: VS Code  
+- **Build tool**: Flutter CLI  
+- **CI**: GitHub Actions (builds APK & web release on push)
+
+## ⚡ Quick Start
+```bash
+git clone https://github.com/adhamtarek-creator/burger_menu.git
+cd burger_menu
+flutter pub get
+flutter run
+
+
+
+
